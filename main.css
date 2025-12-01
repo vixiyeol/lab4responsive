@@ -1,0 +1,78 @@
+body{
+  font-family: Helvetica Neue;
+  text-align:center;
+  margin-left: 24vw;
+  margin-right: 24vw;
+}
+
+a{
+ color:#ffffff;
+}
+h1{
+  color:#4f6655;
+  background-color:#8fc49d;
+  border-style:solid;
+  border-width:0.3vw;
+  border-color:#4f6655;
+  padding-top:0.8vw;
+  padding-bottom:0.8vw;
+
+}
+
+
+#navigation{
+  list-style-type:none;
+  padding:0;
+  background-color:#cae6cb;
+  padding-bottom:1vw;
+  padding-top:1vw;
+  color:#4f6655;
+  border-style:dotted;
+  border-color:#4f6655;
+
+}
+
+.navigation {
+  display:inline;
+ padding-left:2.8vw;
+ padding-right:2.8vw;
+}
+
+
+main {
+  color:#4f6655;
+  background-color:#cae6cb;
+  padding-top:1vw;
+  padding-bottom:1vw;
+  padding-left:2.5vw;
+  padding-right:2.5vw;
+  margin-bottom:1.5vw;
+}
+
+footer {
+  padding-top:0.8vw;
+  padding-bottom:0.8vw;
+  padding-left:1vw;
+  padding-right:1vw;
+  background-color:#8fc49d;
+  color:#4f6655; 
+  border-style:solid;
+  border-width:0.3vw;
+  border-color:#4f6655;
+  font-weight:bold;
+}
+
+.about1{
+  text-align:left;
+}
+.about2{
+  text-align:right;
+}
+
+#concerts{
+  text-align:left;
+}
+#headerimg{
+  width:60%;
+  
+}
