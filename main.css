@@ -3,6 +3,7 @@ body{
   text-align:center;
   margin-left: 24vw;
   margin-right: 24vw;
+  font-size: calc(1vw);
 }
 
 a{
@@ -10,10 +11,7 @@ a{
 }
 h1{
   color:#4f6655;
-  background-color:#8fc49d;
-  border-style:solid;
-  border-width:0.3vw;
-  border-color:#4f6655;
+  background-color:#cae6cb;
   padding-top:0.8vw;
   padding-bottom:0.8vw;
 
@@ -23,12 +21,12 @@ h1{
 #navigation{
   list-style-type:none;
   padding:0;
-  background-color:#cae6cb;
+  background-color:#4f6655;
   padding-bottom:1vw;
   padding-top:1vw;
-  color:#4f6655;
-  border-style:dotted;
+  color:#cae6cb;
   border-color:#4f6655;
+  border-radius: 1vw;
 
 }
 
@@ -54,12 +52,10 @@ footer {
   padding-bottom:0.8vw;
   padding-left:1vw;
   padding-right:1vw;
-  background-color:#8fc49d;
-  color:#4f6655; 
-  border-style:solid;
-  border-width:0.3vw;
-  border-color:#4f6655;
+  background-color:#4f6655;
+  color:#8fc49d; 
   font-weight:bold;
+  border-radius: 1vw;
 }
 
 .about1{
@@ -74,5 +70,6 @@ footer {
 }
 #headerimg{
   width:60%;
+  border-radius:10vw;
   
 }
