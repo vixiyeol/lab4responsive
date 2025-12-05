@@ -1,8 +1,8 @@
 body{
-  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: Helvetica Neue;
   text-align:center;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 24vw;
+  margin-right: 24vw;
 }
 
 a{
@@ -12,10 +12,10 @@ h1{
   color:#4f6655;
   background-color:#8fc49d;
   border-style:solid;
-  border-width:3px;
+  border-width:0.3vw;
   border-color:#4f6655;
-  padding-top:10px;
-  padding-bottom:10px;
+  padding-top:0.8vw;
+  padding-bottom:0.8vw;
 
 }
 
@@ -24,8 +24,8 @@ h1{
   list-style-type:none;
   padding:0;
   background-color:#cae6cb;
-  padding-bottom:20px;
-  padding-top:20px;
+  padding-bottom:1vw;
+  padding-top:1vw;
   color:#4f6655;
   border-style:dotted;
   border-color:#4f6655;
@@ -34,30 +34,30 @@ h1{
 
 .navigation {
   display:inline;
- padding-left:15px;
- padding-right:15px;
+ padding-left:2.8vw;
+ padding-right:2.8vw;
 }
 
 
 main {
   color:#4f6655;
   background-color:#cae6cb;
-  padding-top:10px;
-  padding-bottom:10px;
-  padding-left:15px;
-  padding-right:15px;
-  margin-bottom:20px;
+  padding-top:1vw;
+  padding-bottom:1vw;
+  padding-left:2.5vw;
+  padding-right:2.5vw;
+  margin-bottom:1.5vw;
 }
 
 footer {
-  padding-top:10px;
-  padding-bottom:10px;
-  padding-left:15px;
-  padding-right:15px;
+  padding-top:0.8vw;
+  padding-bottom:0.8vw;
+  padding-left:1vw;
+  padding-right:1vw;
   background-color:#8fc49d;
   color:#4f6655; 
   border-style:solid;
-  border-width:5px;
+  border-width:0.3vw;
   border-color:#4f6655;
   font-weight:bold;
 }
@@ -73,6 +73,6 @@ footer {
   text-align:left;
 }
 #headerimg{
-width:400px;
+  width:60%;
   
 }
